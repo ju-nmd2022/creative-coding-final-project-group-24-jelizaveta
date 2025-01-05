@@ -1,3 +1,6 @@
+//This project uses:
+// - p5.js (https://p5js.org)
+// - ml5.js (https://ml5js.org)
 // Global var
 let handPose;
 let video;
